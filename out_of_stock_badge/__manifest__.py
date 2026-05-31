@@ -1,5 +1,5 @@
 {
-    'name': 'Auto Out-of-Stock Ribbon for eCommerce',
+    'name': 'Smart Out-of-Stock Badge for eCommerce',
     'version': '17.0.1.0.0',
     'summary': 'Automatic out-of-stock badge on product images when qty = 0',
     'category': 'Website/Website',
