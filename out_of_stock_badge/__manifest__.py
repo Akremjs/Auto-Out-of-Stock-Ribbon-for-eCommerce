@@ -4,7 +4,6 @@
     'summary': 'Automatic out-of-stock badge on product images when qty = 0',
     'category': 'Website/Website',
     'author': 'AKREM.KHELIFI',
-    'website': 'https://github.com/Akremjs/Auto-Out-of-Stock-Ribbon-for-eCommerce',
     'license': 'LGPL-3',
     'depends': ['website_sale'],
     'data': ['views/badge.xml'],
